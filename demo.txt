@@ -16,4 +16,21 @@ git config --global user.username ___username____(connect to github)
 
 git remote add origin (paste link of the repo created in github)
 
-git push orion master (to push to repository)
+git push origin master (to push to repository)
+
+git diff(to check the difference)
+
+git branch first_branch
+
+git add info3.txt(adding info3)
+
+git checkout first_branch
+
+git checkout master
+
+git merge first_branch
+
+ls
+
+
+
