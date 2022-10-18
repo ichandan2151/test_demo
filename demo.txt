@@ -1,1 +1,19 @@
-hjgggcycrtucygvkhbuifytrucfvgjhkbjlnk;ml
+mkdir test(make a directory)
+
+cd test(change to test directory)
+
+git init(initialize directory)
+
+git status(to check status)
+
+# creat a file in the directory in local/user/
+
+git add demo.text(add the file to git)
+
+git commit -m "committing a txt file"
+
+git config --global user.username ___username____(connect to github)
+
+git remote add origin (paste link of the repo created in github)
+
+git push orion master (to push to repository)
